@@ -1,4 +1,4 @@
-# LATIHAN2DPBO2022
+# LATIHAN1DPBO2022
 
 > Saya Novaldi Sandi Ago 2003941 mengerjakan tugas LATIHAN1 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
